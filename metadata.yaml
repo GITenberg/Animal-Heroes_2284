@@ -1,0 +1,38 @@
+_repo: Animal-Heroes_2284
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Seton, Ernest Thompson
+    aliases:
+    - Seton-Thomson, Ernest
+    - Seton-Thompson, Ernest
+    - Seton, Wolf
+    - Thompson-Seton, Ernest
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2000-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Folklore'
+- !lcc 'QL'
+- !lcsh 'Animals -- Anecdotes'
+- !lcsh 'Animals -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The slum cat -- Arnaux, the chronicle of a homing pigeon -- Badlands
+  Billy, the wolf that won -- The boy and the lynx -- Little Warhorse, the history
+  of a jack-rabbit -- Snap, the story of a bull-terrier -- The Winnipeg wolf -- The
+  legend of the white reindeer.
+title: Animal Heroes
+url: http://www.gutenberg.org/ebooks/2284
